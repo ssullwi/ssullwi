@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⭐I'm Alisa, a beginner programmer based in London <br><br>⭐Outside of coding, you'll find me dancing, watching films, or drawing</p>
+<p align="left">⭐I'm Alisa, a IT student based in London <br><br>⭐Outside of coding, you'll find me dancing, watching films, or drawing</p>
 
 ###
 
